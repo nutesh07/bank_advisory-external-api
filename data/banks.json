@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "bankName": "State Bank of India",
+    "accountType": "salary",
+    "minSalary": 25000,
+    "minBalance": 0,
+    "interestRate": "2.7%",
+    "facilities": ["ATM", "Net Banking", "Mobile App"],
+    "documents": ["Aadhaar", "PAN", "Salary Slip"],
+    "contact": "1800-1234-567"
+  },
+  {
+    "id": 2,
+    "bankName": "HDFC Bank",
+    "accountType": "salary",
+    "minSalary": 30000,
+    "minBalance": 0,
+    "interestRate": "3.0%",
+    "facilities": ["ATM", "Credit Card", "Net Banking"],
+    "documents": ["Aadhaar", "PAN", "Offer Letter"],
+    "contact": "1800-202-6161"
+  }
+]
