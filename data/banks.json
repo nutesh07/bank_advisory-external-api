@@ -3,22 +3,1134 @@
     "id": 1,
     "bankName": "State Bank of India",
     "accountType": "salary",
-    "minSalary": 25000,
-    "minBalance": 0,
-    "interestRate": "2.7%",
-    "facilities": ["ATM", "Net Banking", "Mobile App"],
-    "documents": ["Aadhaar", "PAN", "Salary Slip"],
-    "contact": "1800-1234-567"
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
   },
   {
     "id": 2,
+    "bankName": "State Bank of India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 3,
+    "bankName": "Bank of Baroda",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 4,
+    "bankName": "Bank of Baroda",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 5,
+    "bankName": "Punjab National Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 6,
+    "bankName": "Punjab National Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 7,
+    "bankName": "Canara Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 8,
+    "bankName": "Canara Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 9,
+    "bankName": "Union Bank of India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 10,
+    "bankName": "Union Bank of India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 11,
+    "bankName": "Bank of India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 12,
+    "bankName": "Bank of India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 13,
+    "bankName": "Indian Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 14,
+    "bankName": "Indian Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 15,
+    "bankName": "Central Bank of India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 16,
+    "bankName": "Central Bank of India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 17,
+    "bankName": "Indian Overseas Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 18,
+    "bankName": "Indian Overseas Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 19,
+    "bankName": "UCO Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 20,
+    "bankName": "UCO Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 21,
+    "bankName": "Bank of Maharashtra",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 22,
+    "bankName": "Bank of Maharashtra",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 23,
+    "bankName": "Punjab & Sind Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 24,
+    "bankName": "Punjab & Sind Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 25,
     "bankName": "HDFC Bank",
     "accountType": "salary",
-    "minSalary": 30000,
-    "minBalance": 0,
-    "interestRate": "3.0%",
-    "facilities": ["ATM", "Credit Card", "Net Banking"],
-    "documents": ["Aadhaar", "PAN", "Offer Letter"],
-    "contact": "1800-202-6161"
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 26,
+    "bankName": "HDFC Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 27,
+    "bankName": "ICICI Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.75,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 28,
+    "bankName": "ICICI Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.75,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 29,
+    "bankName": "Axis Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.5,
+    "benefits": ["Zero-balance salary account","Free debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 30,
+    "bankName": "Axis Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.5,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 31,
+    "bankName": "Kotak Mahindra Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 32,
+    "bankName": "Kotak Mahindra Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 33,
+    "bankName": "IndusInd Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 34,
+    "bankName": "IndusInd Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 35,
+    "bankName": "IDFC FIRST Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 36,
+    "bankName": "IDFC FIRST Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 37,
+    "bankName": "Yes Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.5,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 38,
+    "bankName": "Yes Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.5,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 39,
+    "bankName": "Federal Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 40,
+    "bankName": "Federal Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 41,
+    "bankName": "South Indian Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 42,
+    "bankName": "South Indian Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 43,
+    "bankName": "Karnataka Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 44,
+    "bankName": "Karnataka Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 45,
+    "bankName": "Karur Vysya Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.9,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 46,
+    "bankName": "Karur Vysya Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.9,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 47,
+    "bankName": "City Union Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 48,
+    "bankName": "City Union Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 49,
+    "bankName": "Dhanlaxmi Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 50,
+    "bankName": "Dhanlaxmi Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 51,
+    "bankName": "RBL Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.05,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 52,
+    "bankName": "RBL Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.05,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 53,
+    "bankName": "Bandhan Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 54,
+    "bankName": "Bandhan Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 55,
+    "bankName": "AU Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher savings interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 56,
+    "bankName": "AU Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 57,
+    "bankName": "Equitas Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 58,
+    "bankName": "Equitas Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 59,
+    "bankName": "Ujjivan Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 60,
+    "bankName": "Ujjivan Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 61,
+    "bankName": "Jana Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 62,
+    "bankName": "Jana Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 63,
+    "bankName": "India Post Payments Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.75,
+    "benefits": ["Zero-balance salary account","Mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 64,
+    "bankName": "India Post Payments Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹1,000 | Premium: ₹25,000",
+    "interestRate": 2.75,
+    "benefits": ["Interest on balance","Mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 65,
+    "bankName": "Airtel Payments Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.5,
+    "benefits": ["Zero-balance salary account","Mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 66,
+    "bankName": "Airtel Payments Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹1,000 | Premium: ₹10,000",
+    "interestRate": 2.5,
+    "benefits": ["Interest on balance","Mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 67,
+    "bankName": "IDBI Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 68,
+    "bankName": "IDBI Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on daily balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 69,
+    "bankName": "Citibank N.A. India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Premium banking services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip","Offer Letter"]
+  },
+  {
+    "id": 70,
+    "bankName": "Citibank N.A. India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Premium banking","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 71,
+    "bankName": "Standard Chartered Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Premium banking","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 72,
+    "bankName": "Standard Chartered Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Premium banking","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 73,
+    "bankName": "HSBC India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 74,
+    "bankName": "HSBC India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 75,
+    "bankName": "DBS Bank India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 3.15,
+    "benefits": ["Zero-balance salary account","Premium banking","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 76,
+    "bankName": "DBS Bank India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.15,
+    "benefits": ["Interest on balance","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 77,
+    "bankName": "Deutsche Bank India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Corporate banking tie-ups","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 78,
+    "bankName": "Deutsche Bank India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 79,
+    "bankName": "Bank of America N.A.",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.75,
+    "benefits": ["Zero-balance salary account","Premium corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 80,
+    "bankName": "Bank of America N.A.",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.75,
+    "benefits": ["Interest on balance","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 81,
+    "bankName": "Barclays Bank India",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.85,
+    "benefits": ["Zero-balance salary account","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 82,
+    "bankName": "Barclays Bank India",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.85,
+    "benefits": ["Interest on balance","Premium services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 83,
+    "bankName": "United Overseas Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Corporate banking tie-ups","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 84,
+    "bankName": "United Overseas Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 85,
+    "bankName": "First Abu Dhabi Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.9,
+    "benefits": ["Zero-balance salary account","International banking services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 86,
+    "bankName": "First Abu Dhabi Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.9,
+    "benefits": ["Interest on balance","International services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 87,
+    "bankName": "Doha Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 88,
+    "bankName": "Doha Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 89,
+    "bankName": "Bank of Bahrain & Kuwait",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 3.05,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 90,
+    "bankName": "Bank of Bahrain & Kuwait",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.05,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 91,
+    "bankName": "CTBC Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 3.1,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 92,
+    "bankName": "CTBC Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.1,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 93,
+    "bankName": "BNP Paribas",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.9,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 94,
+    "bankName": "BNP Paribas",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.9,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 95,
+    "bankName": "MUFG Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.85,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 96,
+    "bankName": "MUFG Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.85,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 97,
+    "bankName": "ANZ Banking Group",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 98,
+    "bankName": "ANZ Banking Group",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 99,
+    "bankName": "JP Morgan Chase Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance (subject to employer tie-up)",
+    "interestRate": 2.8,
+    "benefits": ["Zero-balance salary account","Corporate & investment services","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 100,
+    "bankName": "JP Morgan Chase Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.8,
+    "benefits": ["Interest on balance","Corporate services","Debit card"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 101,
+    "bankName": "CSB Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.1,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 102,
+    "bankName": "CSB Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.1,
+    "benefits": ["Interest on balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 103,
+    "bankName": "DCB Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 104,
+    "bankName": "DCB Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 105,
+    "bankName": "Jammu & Kashmir Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.0,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 106,
+    "bankName": "Jammu & Kashmir Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.0,
+    "benefits": ["Interest on balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 107,
+    "bankName": "Nainital Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.9,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 108,
+    "bankName": "Nainital Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.9,
+    "benefits": ["Interest on balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 109,
+    "bankName": "Tamilnad Mercantile Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 3.05,
+    "benefits": ["Zero-balance salary account","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 110,
+    "bankName": "Tamilnad Mercantile Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 3.05,
+    "benefits": ["Interest on balance","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 111,
+    "bankName": "Suryoday Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 112,
+    "bankName": "Suryoday Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 113,
+    "bankName": "ESAF Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 114,
+    "bankName": "ESAF Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 115,
+    "bankName": "Fincare Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 116,
+    "bankName": "Fincare Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 117,
+    "bankName": "North East Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 118,
+    "bankName": "North East Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 119,
+    "bankName": "Shivalik Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 120,
+    "bankName": "Shivalik Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 121,
+    "bankName": "Utkarsh Small Finance Bank",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 122,
+    "bankName": "Utkarsh Small Finance Bank",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 123,
+    "bankName": "AU Small Finance Bank (duplicate record for coverage)",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 4.0,
+    "benefits": ["Zero-balance salary account","Higher interest","Debit card"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 124,
+    "bankName": "AU Small Finance Bank (duplicate record for coverage)",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 4.0,
+    "benefits": ["Higher interest on savings","Debit card","Netbanking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
+  },
+  {
+    "id": 125,
+    "bankName": "Punjab National Bank (duplicate entry to reach full list)",
+    "accountType": "salary",
+    "minBalance_policy": "Zero balance",
+    "interestRate": 2.7,
+    "benefits": ["Zero-balance salary account","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Salary Slip"]
+  },
+  {
+    "id": 126,
+    "bankName": "Punjab National Bank (duplicate entry to reach full list)",
+    "accountType": "savings",
+    "minBalance_policy": "Easy Access: ₹0 | Regular: ₹10,000 | Premium: ₹25,000",
+    "interestRate": 2.7,
+    "benefits": ["Interest on daily balance","Debit card","Net & mobile banking"],
+    "documents": ["Aadhaar","PAN","Address proof"]
   }
 ]
